@@ -1,0 +1,8 @@
+com\prueba\entity\Groups.class
+com\prueba\entity\Prices.class
+com\prueba\repository\IPricesRepository.class
+com\prueba\TestJava2023Application.class
+com\prueba\controller\RestController.class
+com\prueba\entity\Products.class
+com\prueba\service\PriceService.class
+com\prueba\service\IPriceService.class
